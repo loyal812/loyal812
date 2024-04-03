@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:goodluckbusiness0101@gmail.com">Contact to me!</a>
+<a href="mailto:goodluckbusiness0101@gmail.com">💌Contact to me!💌</a>
 </p>
 
 <!--
